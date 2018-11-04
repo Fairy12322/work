@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Fairy12322/work/issues"
   },
-  "homepage": "https://github.com/Fairy12322/work#readme"
+  "homepage": "https://github.com/Fairy12322/work#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
 }
